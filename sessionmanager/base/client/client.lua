@@ -7,6 +7,11 @@ Citizen.CreateThread(function()
 		if NetworkIsSessionStarted() then
 			Rsv('hardcap:playerActivated')
 
+
+
+
+
+			
 			return
 		end
 	end
